@@ -54,7 +54,7 @@ const HeroSection = () => {
 
           <div className='name-part'>
             <h1>Kashaf.</h1>
-            <span><GiHand /></span>
+            <span className='hand-icon'><GiHand /></span>
           </div>
 
 
