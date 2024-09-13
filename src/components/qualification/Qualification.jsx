@@ -73,7 +73,7 @@ const Qualification = () => {
     return (
         <div className='about-section'>
 
-            <div className='about-section-top'>
+            {/* <div className='about-section-top'>
                 <h1>Qualification</h1>
                 <span>My personal journey</span>
             </div>
@@ -100,7 +100,7 @@ const Qualification = () => {
                 })}
 
 
-            </div>
+            </div> */}
         </div>
     )
 }

@@ -26,7 +26,7 @@ function App() {
         <Skills />
         <Services />
         <Qualification />
-        <h1>Contact</h1>
+        
       </div>
     </>
 

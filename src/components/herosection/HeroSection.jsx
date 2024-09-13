@@ -44,7 +44,7 @@ const HeroSection = () => {
       <div className='herosection-icon-container' >
         {heroSectionIconData.map((muzammil, index) => {
           return (
-            <a href={muzammil.link} className={`icon-container-hover-${index}`}>{muzammil.icon}</a>
+        <a href= {muzammil.link} className={`icon-container-hover-${index}`}>{muzammil.icon}</a>
           )
         })}
       </div>
@@ -59,7 +59,7 @@ const HeroSection = () => {
 
 
           <h2>Frontend Developer</h2>
-          <p>Lorem,  sit amet consectetur adipisicing elit. Reiciendis est sequi, deleniti optio exercitationem, magni repellat totam rerum perspiciatis porro et tempora autem repudiandae iusto? Suscipit nesciunt illum consectetur quibusdam?</p>
+          <p>Front-End Developer,I makes UI/UX Designs which will blow your mind.I can create Your Imaginations</p>
         </div>
 
         <Buttons btnTitle={"Say Hello"} btnIcon={<FaTelegramPlane />} />

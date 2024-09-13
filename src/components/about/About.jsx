@@ -63,7 +63,7 @@ const About = () => {
           </div>
 
           <p className='about-section-bottom-right-middle'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti sunt at quis a sit minus ut atque, architecto eius! Accusamus ratione esse dolore, suscipit dolorem deserunt rerum sed nesciunt culpa.
+            Im currently studying in class  9th. I am a student of science stream. I am very much interested in coding and  web development. I am currently learning about front-end development using HTML, CSS, JavaScript and React. I am also learning about back-end development using Node.js and MongoDB. I am very much interested in learning about full-stack development and I am currently working on a project to learn about it. I am currently learning about Python and its libraries .
           </p>
 
           {/* <div className='herosection-name-container-button'>
