@@ -59,7 +59,7 @@ const HeroSection = () => {
 
 
           <h2>Frontend Developer</h2>
-          <p>Front-End Developer,I makes UI/UX Designs which will blow your mind.I can create Your Imaginations</p>
+          <p>Front-End Developer,I makes UI/UX Designs which will blow your mind.I can create Your Imaginations.</p>
         </div>
 
         <Buttons btnTitle={"Say Hello"} btnIcon={<FaTelegramPlane />} />
