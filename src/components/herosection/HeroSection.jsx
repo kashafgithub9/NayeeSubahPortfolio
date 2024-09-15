@@ -6,8 +6,11 @@ import { FaTwitter } from "react-icons/fa6";
 import { GiHand } from "react-icons/gi";
 import { FaTelegramPlane } from "react-icons/fa";
 
-import picture from '../../websitedesignimages/heropicture.jpg'
+import picture from '../../websitedesignimages/websitepic.jpg'
+
 import Buttons from '../Buttons';
+import { BsGithub } from 'react-icons/bs';
+import { BiLogoGmail } from 'react-icons/bi';
 
 
 
@@ -19,17 +22,17 @@ const HeroSection = () => {
   const heroSectionIconData = [
     {
       icon: <IoLogoInstagram />,
-      link: 'https://instagram.com',
+      link: 'https://www.instagram.com/kashaf.bro/',
       color: "#E1306C"
     },
     {
-      icon: <CiLinkedin />,
-      link: 'https://linkedin.com',
+      icon: <BiLogoGmail />,
+      link: 'https://myaccount.google.com/?pli=1',
       color: "#0A66C2"
     },
     {
-      icon: <FaTwitter />,
-      link: 'https://twitter.com',
+      icon: <BsGithub />,
+      link: 'https://github.com/kashafgithub9/kashafgithub9',
       color: "#1DA1F2"
     }
   ]

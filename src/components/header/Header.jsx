@@ -15,6 +15,10 @@ const Header = () => {
         {
             name: "Skills",
             link: "#skills"
+        },
+        {
+            name: "Services",
+            link: "#services"
         }
     ]
 
