@@ -52,7 +52,7 @@ const About = () => {
 
           <p className="about-section-bottom-right-middle">
             Im currently studying in class 9th. I am a student of science
-            stream. I am very much interested in coding and web development. I
+            stream. I am  interested in coding and web development very much. I
             am currently learning about front-end development using HTML, CSS,
             JavaScript and React. I am also learning about back-end development
             using Node.js and MongoDB. I am very much interested in learning
